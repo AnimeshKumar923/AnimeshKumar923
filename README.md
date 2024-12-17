@@ -25,7 +25,7 @@ _More of the merged PRs can be found [here](https://github.com/pulls?q=is%3Apr+a
   - E-mail: kumaranimesh923@gmail.com
   - LinkedIn: https://www.linkedin.com/in/animeshkumar923/
   - Discord: animeshkumar923
-  - Twitter/X: https://www.twitter.com/animeshkumar923
+  - Twitter/X: https://www.twitter.com/animeshk923
 
 ### Thanks for visiting! Have a great day ahead! 😁
 <!--
