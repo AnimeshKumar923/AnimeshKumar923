@@ -12,7 +12,8 @@ Some of the achievements which I take pride in are:
 2. Wrote documentation for the 'YouTube to Spotify Podcast' workflow. _(Link: https://github.com/asyncapi/community/blob/master/MEETINGS_ORGANIZATION.md#how-do-i-publish-broadcasted-meetings-as-podcasts))_
 3. Implemented JSON Schema validator inside CI (GitHub Actions). It validates any incoming JSON files in a PR. _(Link: https://github.com/asyncapi/spec-json-schemas/pull/452)_
 4. Added automation of docs for the Glee project. _(Link: https://github.com/asyncapi/glee/pull/548)_
-5. Reviewed technical documentation across various repositories.
+5. Wrote a script which validates embedded examples in `asyncapi.md` file _(Link: https://github.com/asyncapi/spec/pull/1059)_
+6. Reviewed technical documentation across various repositories.
 
 _More of the merged PRs can be found [here](https://github.com/pulls?q=is%3Apr+author%3AAnimeshKumar923+archived%3Afalse+is%3Aclosed+org%3Aasyncapi+is%3Amerged)_
 
